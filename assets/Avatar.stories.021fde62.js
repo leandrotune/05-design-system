@@ -1,0 +1,2 @@
+import{A as t}from"./index.d071f0c4.js";import"./index.0eb7e1b9.js";import"./iframe.c6ff790b.js";import"./index.865412e0.js";import"./jsx-runtime.de83721e.js";const i={title:"Data display/Avatar",component:t,args:{src:"https://github.com/leandrotune.png",alt:"Leandro Antunes"},argTypes:{src:{control:{type:"text"}}}},n={},p={args:{src:void 0}},c=["Primary","WithFallback"];export{n as Primary,p as WithFallback,c as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories.021fde62.js.map
